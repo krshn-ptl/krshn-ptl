@@ -96,8 +96,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/rc-chuah/Win-Dev-Tools-Linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-chuah&repo=Win-Dev-Tools-Linux&theme=dark"></a>
 </p>
 
-<!--
-**rc-chuah/rc-chuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rc-chuah/rc-chuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
 Here are some ideas to get you started:
@@ -145,5 +144,5 @@ Here are some ideas to get you started:
 <br>
  <p align="center"> 
   Visitors<br>
-  <img src="https://profile-counter.glitch.me/astonizer/count.svg" />
+  <img src="https://profile-counter.glitch.me/krshn-ptl/count.svg" />
 </p>
